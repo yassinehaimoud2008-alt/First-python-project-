@@ -1,1 +1,5 @@
-print("Hello Yassine, welcome to programming!")
+name = input("دخل سميتك: ")
+age = input("شحال فعمرك؟ ")
+
+print("مرحبا", name)
+print("عمرك هو", age, "سنة")
